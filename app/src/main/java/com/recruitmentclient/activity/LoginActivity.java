@@ -35,6 +35,9 @@ import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.Toast;
 
+/**
+ * LoginActivity是用户登录界面
+ */
 public class LoginActivity extends Activity implements OnClickListener,
 		OnCheckedChangeListener
 {
